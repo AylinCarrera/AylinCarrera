@@ -22,13 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📁 ¿Qué encontrarás aquí?
 
 - 📚 Proyectos de curso y experimentos de clase
@@ -38,8 +31,7 @@
 
 ---
 
-📫 **Contacto:** Instagram: [@sweetfilia](https://www.instagram.com/sweetfilia/?hl=es) 
-
+📫 **Contacto:**
 [Instagram](https://www.instagram.com/sweetfilia/?hl=es)
 
 
