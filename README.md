@@ -24,14 +24,10 @@
 
 ## 📁 ¿Qué encontrarás aquí?
 
-- 📚 Proyectos de curso y experimentos de clase
-- 🔬 Ideas propias que nacen en mi cabeza a las 2am
-- ⚙️ Scripts y herramientas que hice porque los necesitaba
-- 🤝 Colaboraciones y proyectos en equipo
+- 📚 Proyectos y experimentos de clase
 
 ---
 
-📫 **Contacto:**
-[Instagram](https://www.instagram.com/sweetfilia/?hl=es)
+📫 **Contacto:** [Instagram](https://www.instagram.com/sweetfilia/?hl=es)
 
 
